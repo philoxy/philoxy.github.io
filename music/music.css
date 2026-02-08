@@ -1,0 +1,70 @@
+body {
+  text-align: center;
+  font-family: "Helvetica"; 
+  background-image: url("/assets/bg/soday_music.png");
+  background-repeat: repeat;
+}
+
+.divideAlbums {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  width: 300px;
+}
+
+img {
+  border: solid;
+  border-color: #cc05cc;
+  /*border-image: linear-gradient(to bottom, #ff0000 0%, #0000ff 100%)*/;
+  border-width: 5px;
+  border-style: solid;
+  transition-duration: 0.4s;
+}
+
+img:hover, .fade:hover {
+  border-color: #cc05cc;
+  /*border-image: linear-gradient(to bottom, #bb0000, #0000bb)*/;
+  filter: brightness(70%);
+}
+
+h1, h2, .fade {
+  transition-duration: 0.4s;
+  color: #ffffff;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+a {
+  color: blue;
+}
+
+button {
+  /*background-image: linear-gradient(to bottom, #990000, #000099);*/
+  background-color: #dd25dd;
+  color: #ffffff;
+  border-color: #ee35ee;
+  transition-duration: 0.4s;
+  padding: 8px 8px;
+  width: 200px;
+  height: 65px;
+  border-radius: 8px;
+  margin: 5px;
+  padding: 0px;
+  border-width: 4px;
+}
+
+button:hover {
+  /*background-image: linear-gradient(to bottom, #ff0000, #0000ff);*/
+  background-color: #cc15cc;
+  color: #ffffff;
+  border-color: #ee35ee;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+#boxy {
+  width: 40%;
+  height: auto;
+  border-radius: 20px;
+  background-color: #dd25dd;
+  border: 10px solid #aa00aa;
+  margin: auto;
+}
