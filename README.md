@@ -1,4 +1,4 @@
-# philoxy.github.io!!
+﻿# philoxy.github.io!!
 hello welcome to my horribly coded website
 
-ill recode it eventually...
+im currently working on remaking it
