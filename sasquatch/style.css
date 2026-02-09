@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  font-family: "Helvetica";
+  background-image: url("/assets/bg/soday_ss.png");
+  background-repeat: repeat;
+}
+
+button {
+  background-color: #00eedd;
+  color: #ffffff;
+  border-color: #00ffee;
+  transition-duration: 0.4s;
+  padding: 8px 8px;
+  width: 200px;
+  height: 65px;
+  border-radius: 8px;
+  margin: 5px;
+  padding: 0px;
+  border-width: 4px;
+}
+
+h1, h2, h4, h5 {
+  text-shadow: 2px 2px 2px #000000;
+  color: white;
+}
+
+h4 {
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  border-color: #ffffff;
+  width: 60%;
+}
+
+button:hover {
+  background-color: #00ccbb;
+  color: #ffffff;
+  border-color: #00ffee;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+#boxy{
+  width: 40%;
+  height: auto;
+  border-radius: 20px;
+  background-color: #00eedd;
+  border: 10px solid #00ccbb;
+  margin: auto;
+}
