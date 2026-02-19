@@ -55,8 +55,6 @@ button {
 button:hover {
   /*background-image: linear-gradient(to bottom, #ff0000, #0000ff);*/
   background-color: #cc15cc;
-  color: #ffffff;
-  border-color: #ee35ee;
   text-shadow: 2px 2px 2px #000000;
 }
 
@@ -67,4 +65,18 @@ button:hover {
   background-color: #dd25dd;
   border: 10px solid #aa00aa;
   margin: auto;
+}
+
+@media (max-width: 840px) {
+  #boxy {
+    zoom: 150%;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+  }
+
+  h4 {
+    zoom: 200%;
+  }
 }

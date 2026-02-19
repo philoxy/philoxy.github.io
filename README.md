@@ -1,12 +1,22 @@
-﻿# philoxy.github.io!!
-hello welcome to my horribly coded website
+﻿# [philoxy.github.io](philoxy.github.io)
 
-im currently working on remaking it
+Hello, welcome to Philooxy's horribly coded website!!
 
-# to-do list:
+![_Soday_](https://philoxy.github.io/assets/bg/soday_index.png)
 
-- add new page
-- get soday asset back
-- work on sneaky sasquatch and projects page
-- fix mobile view
-- fix uneven album cover
+## To-Do List:
+
+* [ ] Work on new pages
+* [ ] Get soday asset back
+* [ ] Fix uneven album cover
+
+## Changelog
+
+### 8th Feb 2026
+* Major CSS upgrade to homepage, music, and sneaky sasquatch page!
+
+### 18th Feb 2026
+* Added servers page!!!
+* Added characters and blog page (unfinished)
+* "Fixed" mobile view
+* Changed the date format because I can't read

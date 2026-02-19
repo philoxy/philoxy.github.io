@@ -17,7 +17,6 @@ button {
   color: #ffffff;
   border-color: #ff6666;
   transition-duration: 0.4s;
-  padding: 8px 8px;
   width: 200px;
   height: 65px;
   border-radius: 8px;
@@ -29,8 +28,6 @@ button {
 button:hover {
   /* background-image: linear-gradient(to bottom, #ff0000, #0000ff); */
   background-color: #dd3535;
-  color: #ffffff;
-  border-color: #ff6666;
   text-shadow: 2px 2px 2px #000000;
 }
 
@@ -54,11 +51,32 @@ h4 {
   width: 300px;
 }
 
-#boxy{
-  width: 40%;
-  height: auto;
+#boxy {
+  zoom: 100%;
+  width: 70%;
   border-radius: 20px;
   background-color: #ff4545;
   border: 10px solid #cc0505;
   margin: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+h4 {
+  zoom: 100%;
+}
+
+@media (max-width: 840px) {
+  #boxy {
+    zoom: 150%;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+  }
+
+  h4 {
+    zoom: 150%;
+  }
+
 }

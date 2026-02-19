@@ -1,7 +1,10 @@
+/* Wait... it's all the same css file?"
+   Always has been. */
+
 body {
   text-align: center;
   font-family: "Helvetica";
-  background-image: url("/assets/bg/soday_programmer.png");
+  background-image: url("/assets/bg/soday_index.png"); /* no custom soday image because i lost the original asset :(*/
   background-repeat: repeat;
 }
 
@@ -13,9 +16,9 @@ hr {
 /* woahh cool buttons */
 button {
   /* background-image: linear-gradient(to bottom, #990000, #000099); */
-  background-color: #ff8c00;
+  background-color: #35dd35;
   color: #ffffff;
-  border-color: #ff9c00;
+  border-color: #66ff66;
   transition-duration: 0.4s;
   width: 200px;
   height: 65px;
@@ -27,7 +30,7 @@ button {
 
 button:hover {
   /* background-image: linear-gradient(to bottom, #ff0000, #0000ff); */
-  background-color: #dd6c00;
+  background-color: #25cc25;
   text-shadow: 2px 2px 2px #000000;
 }
 
@@ -51,12 +54,18 @@ h4 {
   width: 300px;
 }
 
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 #boxy {
   zoom: 100%;
-  width: 70%;
+  width: 60%;
   border-radius: 20px;
-  background-color: #ff8c00;
-  border: 10px solid #cc4c00;
+  background-color: #35ee35;
+  border: 10px solid #00bb00;
   margin: auto;
   margin-top: auto;
   margin-bottom: auto;
@@ -64,6 +73,13 @@ h4 {
 
 h4 {
   zoom: 100%;
+}
+
+.serverDesc {
+  width: 60%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (max-width: 840px) {
@@ -76,7 +92,16 @@ h4 {
   }
 
   h4 {
-    zoom: 150%;
+    zoom: 200%;
   }
+
+  .serverDesc {
+    width: auto;
+  }
+
+}
+
+pc
+@media (min-width: 420px) {
 
 }
