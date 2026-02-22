@@ -75,7 +75,7 @@ h4 {
   zoom: 100%;
 }
 
-.serverDesc {
+.paragraph {
   width: 60%;
   justify-content: center;
   margin-left: auto;
@@ -95,13 +95,8 @@ h4 {
     zoom: 200%;
   }
 
-  .serverDesc {
-    width: auto;
+  .paragraph {
+    width: 90%;
   }
-
-}
-
-pc
-@media (min-width: 420px) {
 
 }

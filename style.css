@@ -1,4 +1,5 @@
 body {
+  cursor: url("https://localhost:8000/assets/cursor.png"), 24px 18px pointer;
   text-align: center;
   font-family: "Helvetica";
   background-image: url("/assets/bg/soday_index.png");
@@ -37,6 +38,7 @@ h1, h2, h3 {
 }
 
 a {
+  cursor: url("/assets/cursor.png"), 24px 18px pointer;
   text-decoration: none;
 }
 
@@ -58,25 +60,40 @@ h4 {
   background-color: #ff4545;
   border: 10px solid #cc0505;
   margin: auto;
-  margin-top: auto;
-  margin-bottom: auto;
 }
 
 h4 {
   zoom: 100%;
 }
 
+.paragraph {
+  width: 60%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media (max-width: 840px) {
   #boxy {
-    zoom: 150%;
+    zoom: 100%;
     width: 90%;
-    margin-top: 20px;
-    margin-bottom: 20px;
     margin: auto;
   }
 
+  body {
+    background-size: 10%;
+  }
+
   h4 {
-    zoom: 150%;
+    zoom: 100%;
+  }
+
+  .paragraph {
+    width: 90%;
+  }
+
+  button {
+    width: 80%
   }
 
 }
