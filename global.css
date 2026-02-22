@@ -47,6 +47,7 @@ h4 {
 
 .buttons {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -94,6 +95,10 @@ img {
 
   button {
     width: 80%
+  }
+
+  .buttons {
+    flex-direction: column;
   }
 
 }
