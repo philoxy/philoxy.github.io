@@ -1,102 +1,18 @@
-/* Wait... it's all the same css file?"
-   Always has been. */
-
 body {
-  text-align: center;
-  font-family: "Helvetica";
-  background-image: url("/assets/bg/soday_index.png"); /* no custom soday image because i lost the original asset :(*/
-  background-repeat: repeat;
+  background-image: url("/assets/bg/soday_index.png");
 }
 
-hr {
-  border-color: #ffffff;
-  width: 60%;
-}
-
-/* woahh cool buttons */
 button {
-  /* background-image: linear-gradient(to bottom, #990000, #000099); */
   background-color: #3535dd;
   color: #ffffff;
   border-color: #44dd;
-  transition-duration: 0.4s;
-  width: 200px;
-  height: 65px;
-  border-radius: 8px;
-  margin: 5px;
-  padding: 0px;
-  border-width: 4px;
 }
 
 button:hover {
-  /* background-image: linear-gradient(to bottom, #ff0000, #0000ff); */
   background-color: #2525cc;
-  text-shadow: 2px 2px 2px #000000;
-}
-
-h1, h2, h3 {
-  text-shadow: 2px 2px 2px #000000;
-  color: white;
-}
-
-a {
-  text-decoration: none;
-}
-
-h4 {
-  margin: auto;
-}
-
-.divideSection {
-  display: inline-block;
-  vertical-align: top;
-  text-align: center;
-  width: 300px;
-}
-
-.buttons {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
 
 #boxy {
-  zoom: 100%;
-  width: 60%;
-  border-radius: 20px;
   background-color: #3535ee;
   border: 10px solid #0000bb;
-  margin: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
-h4 {
-  zoom: 100%;
-}
-
-.serverDesc {
-  width: 60%;
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-@media (max-width: 840px) {
-  #boxy {
-    zoom: 150%;
-    width: 90%;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin: auto;
-  }
-
-  h4 {
-    zoom: 200%;
-  }
-
-  .serverDesc {
-    width: auto;
-  }
-
 }

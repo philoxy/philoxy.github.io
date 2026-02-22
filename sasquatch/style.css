@@ -1,72 +1,24 @@
 body {
-  text-align: center;
-  font-family: "Helvetica";
   background-image: url("/assets/bg/soday_ss.png");
-  background-repeat: repeat;
 }
 
 button {
   background-color: #00eedd;
   color: #ffffff;
   border-color: #00ffee;
-  transition-duration: 0.4s;
-  padding: 8px 8px;
-  width: 200px;
-  height: 65px;
-  border-radius: 8px;
-  margin: 5px;
-  padding: 0px;
-  border-width: 4px;
-  text-shadow: none;
-}
-
-h1, h2, h5, .author {
-  text-shadow: 2px 2px 2px #000000;
-  color: white;
 }
 
 .author {
   font-style: italic;
-}
-
-a {
-  text-decoration: none;
-  text-shadow: none;
-}
-
-hr {
-  border-color: #ffffff;
-  width: 60%;
-}
-
-img {
-  width: 90%;
+  text-shadow: 2px 2px 2px #000000;
+  color: white;
 }
 
 button:hover {
   background-color: #00ccbb;
-  text-shadow: 2px 2px 2px #000000;
 }
 
 #boxy{
-  width: 40%;
-  height: auto;
-  border-radius: 20px;
   background-color: #00eedd;
   border: 10px solid #00ccbb;
-  margin: auto;
-}
-
-@media (max-width: 840px) {
-  #boxy {
-    zoom: 150%;
-    width: 90%;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin: auto;
-  }
-
-  h4 {
-    zoom: 200%;
-  }
 }

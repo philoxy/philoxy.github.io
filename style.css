@@ -1,99 +1,18 @@
 body {
-  cursor: url("https://localhost:8000/assets/cursor.png"), 24px 18px pointer;
-  text-align: center;
-  font-family: "Helvetica";
   background-image: url("/assets/bg/soday_index.png");
-  background-repeat: repeat;
 }
 
-hr {
-  border-color: #ffffff;
-  width: 60%;
-}
-
-/* woahh cool buttons */
 button {
-  /* background-image: linear-gradient(to bottom, #990000, #000099); */
   background-color: #ff4545;
   color: #ffffff;
   border-color: #ff6666;
-  transition-duration: 0.4s;
-  width: 200px;
-  height: 65px;
-  border-radius: 8px;
-  margin: 5px;
-  padding: 0px;
-  border-width: 4px;
 }
 
 button:hover {
-  /* background-image: linear-gradient(to bottom, #ff0000, #0000ff); */
   background-color: #dd3535;
-  text-shadow: 2px 2px 2px #000000;
-}
-
-h1, h2, h3 {
-  text-shadow: 2px 2px 2px #000000;
-  color: white;
-}
-
-a {
-  cursor: url("/assets/cursor.png"), 24px 18px pointer;
-  text-decoration: none;
-}
-
-h4 {
-  margin: auto;
-}
-
-.divideSection {
-  display: inline-block;
-  vertical-align: top;
-  text-align: center;
-  width: 300px;
 }
 
 #boxy {
-  zoom: 100%;
-  width: 70%;
-  border-radius: 20px;
   background-color: #ff4545;
   border: 10px solid #cc0505;
-  margin: auto;
-}
-
-h4 {
-  zoom: 100%;
-}
-
-.paragraph {
-  width: 60%;
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-@media (max-width: 840px) {
-  #boxy {
-    zoom: 100%;
-    width: 90%;
-    margin: auto;
-  }
-
-  body {
-    background-size: 10%;
-  }
-
-  h4 {
-    zoom: 100%;
-  }
-
-  .paragraph {
-    width: 90%;
-  }
-
-  button {
-    width: 80%
-  }
-
 }

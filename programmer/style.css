@@ -1,82 +1,18 @@
 body {
-  text-align: center;
-  font-family: "Helvetica";
   background-image: url("/assets/bg/soday_programmer.png");
-  background-repeat: repeat;
 }
 
-hr {
-  border-color: #ffffff;
-  width: 60%;
-}
-
-/* woahh cool buttons */
 button {
-  /* background-image: linear-gradient(to bottom, #990000, #000099); */
   background-color: #ff8c00;
   color: #ffffff;
   border-color: #ff9c00;
-  transition-duration: 0.4s;
-  width: 200px;
-  height: 65px;
-  border-radius: 8px;
-  margin: 5px;
-  padding: 0px;
-  border-width: 4px;
 }
 
 button:hover {
-  /* background-image: linear-gradient(to bottom, #ff0000, #0000ff); */
   background-color: #dd6c00;
-  text-shadow: 2px 2px 2px #000000;
-}
-
-h1, h2, h3 {
-  text-shadow: 2px 2px 2px #000000;
-  color: white;
-}
-
-a {
-  text-decoration: none;
-}
-
-h4 {
-  margin: auto;
-}
-
-.divideSection {
-  display: inline-block;
-  vertical-align: top;
-  text-align: center;
-  width: 300px;
 }
 
 #boxy {
-  zoom: 100%;
-  width: 70%;
-  border-radius: 20px;
   background-color: #ff8c00;
   border: 10px solid #cc4c00;
-  margin: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
-h4 {
-  zoom: 100%;
-}
-
-@media (max-width: 840px) {
-  #boxy {
-    zoom: 150%;
-    width: 90%;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin: auto;
-  }
-
-  h4 {
-    zoom: 150%;
-  }
-
 }
