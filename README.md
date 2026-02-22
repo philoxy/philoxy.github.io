@@ -7,8 +7,8 @@ Hello, welcome to Philooxy's horribly coded website!!
 ## To-Do List:
 
 * [ ] Work on new pages
-* [ ] Get soday asset back
 * [ ] Fix uneven album cover
+* [ ] Find a way to display the readme on the website so I don't have to manually update the changelog
 
 ## Changelog
 
@@ -20,3 +20,6 @@ Hello, welcome to Philooxy's horribly coded website!!
 * Added characters and blog page (unfinished)
 * "Fixed" mobile view
 * Changed the date format because I can't read
+
+### 22nd Feb 2026
+* Added a global CSS file so that I don't have to add one feature to every single CSS file
