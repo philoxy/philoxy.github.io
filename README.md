@@ -8,7 +8,7 @@ Hello, welcome to Philooxy's horribly coded website!!
 
 * [ ] Work on new pages
 * [ ] Fix uneven album cover
-* [ ] Find a way to display the readme on the website so I don't have to manually update the changelog
+* [ ] Find a way to display the readme on the website so I don't have to manually update the changelog (apparently requires JS, so maybe not)
 
 ## Changelog
 
@@ -23,3 +23,5 @@ Hello, welcome to Philooxy's horribly coded website!!
 
 ### 22nd Feb 2026
 * Added a global CSS file so that I don't have to add one feature to every single CSS file
+* FINALLY finished projects page!!
+* Truly fixed mobile view
