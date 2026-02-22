@@ -16,3 +16,20 @@ button:hover {
   background-color: #ff8c00;
   border: 10px solid #cc4c00;
 }
+
+img {
+  border: solid;
+  border-color: #cc4c00;
+  border-width: 5px;
+}
+
+.screenshot {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  width: 300px;
+}
+
+.bol23 {
+  text-decoration: underline;
+}
