@@ -25,3 +25,6 @@ Hello, welcome to Philooxy's horribly coded website!!
 * Added a global CSS file so that I don't have to add one feature to every single CSS file
 * FINALLY finished projects page!!
 * Truly fixed mobile view
+* New icon
+* 404 page!
+* Made external links open in new tab
