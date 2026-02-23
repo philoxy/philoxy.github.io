@@ -7,7 +7,6 @@ Hello, welcome to Philooxy's horribly coded website!!
 ## To-Do List:
 
 * [ ] Work on new pages
-* [ ] Fix uneven album cover
 * [ ] Find a way to display the readme on the website so I don't have to manually update the changelog (apparently requires JS, so maybe not)
 
 ## Changelog
@@ -28,3 +27,4 @@ Hello, welcome to Philooxy's horribly coded website!!
 * New icon
 * 404 page!
 * Made external links open in new tab
+* Fixed that slightly off album cover
