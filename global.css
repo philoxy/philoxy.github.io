@@ -1,8 +1,15 @@
 body {
   text-align: center;
-  font-family: "Helvetica";
   background-repeat: repeat;
   background-size: 10%;
+}
+
+html, a, button, body {
+  cursor: url("/assets/cursor.png"), default;
+}
+
+html {
+  font-family: "Verdana, sans-serif;";
 }
 
 hr {
@@ -15,7 +22,7 @@ button {
   transition-duration: 0.4s;
   width: 200px;
   height: 65px;
-  border-radius: 8px;
+  border-radius: 6px;
   margin: 5px;
   padding: 0px;
   border-width: 4px;
@@ -63,16 +70,36 @@ h4 {
 #boxy {
   zoom: 100%;
   width: 70%;
-  border-radius: 20px;
+  border-radius: 10px;
   margin: auto;
+  justify-content: center;
+  margin-top: 6%;
+}
+
+#topbar {
+  zoom: 100%;
+  border-radius: 10px;
+  margin: auto;
+  position: fixed;
+  display: inline-block;
+  top: -10px;
+  left: 0;
+  right: 0;
 }
 
 h4 {
   zoom: 100%;
+  display: inline;
 }
 
 img {
   width: 80%;
+}
+
+.icon {
+  width: 20px;
+  display: inline;
+  margin-left: 5px;
 }
 
 @media (max-width: 840px) {
@@ -101,5 +128,4 @@ img {
   .buttons {
     flex-direction: column;
   }
-
 }

@@ -12,7 +12,7 @@ button:hover {
   background-color: #dd3535;
 }
 
-#boxy {
+#boxy, #topbar {
   background-color: #ff4545;
   border: 10px solid #cc0505;
 }

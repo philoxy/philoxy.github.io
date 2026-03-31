@@ -41,7 +41,7 @@ button:hover {
   background-color: #cc15cc;
 }
 
-#boxy {
+#boxy, #topbar {
   background-color: #dd25dd;
   border: 10px solid #aa00aa;
 }
