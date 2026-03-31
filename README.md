@@ -28,3 +28,5 @@ Hello, welcome to Philooxy's horribly coded website!!
 * 404 page!
 * Made external links open in new tab
 * Fixed that slightly off album cover
+### 31st Mar 2026
+* Added those icons I was pushing back for forever
