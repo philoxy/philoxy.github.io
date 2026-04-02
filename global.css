@@ -74,7 +74,7 @@ h4 {
   border-radius: 10px;
   margin: auto;
   justify-content: center;
-  margin-top: 6%;
+  margin-top: 5%;
 }
 
 #topbar {
@@ -87,6 +87,7 @@ h4 {
   top: -10px;
   left: 0;
   right: 0;
+  box-sizing: border-box;
 }
 
 h4 {
@@ -110,6 +111,7 @@ img {
     zoom: 100%;
     width: 90%;
     margin: auto;
+    margin-top: 80px;
   }
 
   body {
@@ -130,5 +132,17 @@ img {
 
   .buttons {
     flex-direction: column;
+  }
+  #topbar {
+
+    display: flex;
+    justify-content: space-evenly;
+  }
+  #topbar a {
+    flex: 1;
+  }
+  #topbar button {
+    margin-bottom: 10px;
+    margin-top: 10px;
   }
 }
