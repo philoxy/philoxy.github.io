@@ -77,6 +77,7 @@ h4 {
 }
 
 #topbar {
+  z-index: 10;
   zoom: 100%;
   border-radius: 10px;
   margin: auto;
@@ -98,8 +99,9 @@ img {
 
 .icon {
   width: 20px;
-  display: inline;
-  margin-left: 5px;
+  display: block;
+  margin: auto;
+  border: none;
 }
 
 @media (max-width: 840px) {
