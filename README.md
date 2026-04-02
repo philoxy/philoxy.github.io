@@ -7,7 +7,11 @@ Hello, welcome to Philooxy's horribly coded website!!
 ## To-Do List:
 
 * [ ] Work on new pages
-* [ ] Find a way to display the readme on the website so I don't have to manually update the changelog (apparently requires JS, so maybe not)
+* [ ] Find a way to display the readme on the website so I don't have to manually update the changelog (apparently requires JS, so maybe not) ((nevermind its like 1 html tag))
+* [ ] switch to a different hosting service because github doesnt let you use php (i need it for shared html files)
+
+
+notice how none of these have been checked off in 2 months
 
 ## Changelog
 
@@ -28,5 +32,17 @@ Hello, welcome to Philooxy's horribly coded website!!
 * 404 page!
 * Made external links open in new tab
 * Fixed that slightly off album cover
+
 ### 31st Mar 2026
 * Added those icons I was pushing back for forever
+
+### 1st Apr 2026
+* jeremy
+
+### 2nd Apr 2026
+* i spent half of the day rewriting all of this because git sucks and made me delete my code on accident
+* also im slow so this took like 7 hours lol
+* Changed icons a bit
+* New "Back to Top" button!
+* Added my JCW levels to the projects page!!
+* Added new albums to the music page!!
