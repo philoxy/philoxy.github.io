@@ -10,6 +10,7 @@ html, a, button, body {
 
 html {
   font-family: "Verdana, sans-serif;";
+  scroll-behavior: smooth;
 }
 
 hr {
