@@ -46,3 +46,6 @@ notice how none of these have been checked off in 2 months
 * New "Back to Top" button!
 * Added my JCW levels to the projects page!!
 * Added new albums to the music page!!
+
+### 14th Apr 2026
+* Added new album to music page!!!!!!!!!!!!!!!!!!
