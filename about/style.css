@@ -1,0 +1,18 @@
+body {
+  background-image: url("/assets/bg/soday_index.png");
+}
+
+button {
+  background-color: #ff3566;
+  color: #ffffff;
+  border-color: #ff5588;
+}
+
+button:hover {
+  background-color: #ee3366;
+}
+
+#boxy, #topbar {
+  background-color: #ff3566;
+  border: 10px solid #cc0030;
+}

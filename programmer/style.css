@@ -29,14 +29,3 @@ img {
   text-align: center;
   width: 300px;
 }
-
-.bol23 {
-  transition-duration: 0.4s;
-  text-decoration: underline;
-  color: #ffffff;
-}
-
-.bol23:hover {
-  color: #aaaaff;
-  text-shadow: 2px 2px 2px #000000;
-}

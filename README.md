@@ -7,8 +7,9 @@ Hello, welcome to Philooxy's horribly coded website!!
 ## To-Do List:
 
 * [ ] Work on new pages
-* [ ] Find a way to display the readme on the website so I don't have to manually update the changelog (apparently requires JS, so maybe not) ((nevermind its like 1 html tag))
-* [ ] switch to a different hosting service because github doesnt let you use php (i need it for shared html files)
+* [ ] Find a way to automatically sync readme and main page changelog
+* [ ] Switch from github use php
+* [ ] Draw new image for about page
 
 
 notice how none of these have been checked off in 2 months
@@ -49,3 +50,10 @@ notice how none of these have been checked off in 2 months
 
 ### 14th Apr 2026
 * Added new album to music page!!!!!!!!!!!!!!!!!!
+
+### 17th Apr 2026
+* Added about page
+* Added a blog post finally!!!
+* Archived old website
+* Added MOTD and latest update at the top of the page
+* Removed alt text for icons (i bet you never noticed)
