@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Ubuntu Regular";
+  src: url("/assets/Ubuntu.ttf");
+}
+
 body {
   text-align: center;
   background-repeat: repeat;
@@ -9,7 +14,7 @@ html, a, button, body {
 }
 
 html {
-  font-family: "Verdana, sans-serif;";
+  font-family: "Ubuntu Regular";
   scroll-behavior: smooth;
 }
 

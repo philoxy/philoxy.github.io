@@ -16,3 +16,37 @@ button:hover {
   background-color: #eeee35;
   border: 10px solid #bbbb00;
 }
+
+/*
+unused color schemes (uncomment if you dare)
+
+button {
+  background-color: #ceff00;
+  color: #ffffff;
+  border-color: #dfff11;
+}
+
+button:hover {
+  background-color: #cccc25;
+}
+
+#boxy, #topbar {
+  background-color: #ceff00;
+  border: 10px solid #9bcc00;
+}
+
+button {
+  background-color: #9bcc00;
+  color: #ffffff;
+  border-color: #ceff33;
+}
+
+button:hover {
+  background-color: #8aaa00;
+}
+
+#boxy, #topbar {
+  background-color: #9bcc00;
+  border: 10px solid #689900;
+}
+*/
