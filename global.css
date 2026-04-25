@@ -3,6 +3,8 @@
   src: url("/assets/Ubuntu.ttf");
 }
 
+@charset "UTF-8";
+
 body {
   text-align: center;
   background-repeat: repeat;
@@ -66,7 +68,7 @@ h4 {
   justify-content: center;
 }
 
-.paragraph {
+.paragraph, h3 {
   width: 60%;
   justify-content: center;
   margin-left: auto;
