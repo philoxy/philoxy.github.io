@@ -3,8 +3,6 @@
   src: url("/assets/Ubuntu.ttf");
 }
 
-@charset "UTF-8";
-
 body {
   text-align: center;
   background-repeat: repeat;

@@ -17,6 +17,16 @@ button:hover {
   border: 10px solid #bbbb00;
 }
 
+img {
+  width: 30%;
+}
+
+@media (max-width: 840px) {
+  img {
+    width: 90%;
+  }
+}
+
 /*
 unused color schemes (uncomment if you dare)
 

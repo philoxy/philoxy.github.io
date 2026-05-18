@@ -1,0 +1,18 @@
+body {
+  background-image: url("/assets/bg/soday_music.png");
+}
+
+button {
+  background-color: #66ff99;
+  color: #ffffff;
+  border-color: #aaffdd;
+}
+
+button:hover {
+  background-color: #55ee88;
+}
+
+#boxy, #topbar {
+  background-color: #66ff99;
+  border: 10px solid #33cc66;
+}
