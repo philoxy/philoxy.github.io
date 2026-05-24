@@ -2,19 +2,23 @@ body {
   background-image: url("/assets/bg/soday_blog.png");
 }
 
+body {
+  background-image: url("/assets/bg/soday_music.png");
+}
+
 button {
-  background-color: #eeee35;
+  background-color: #66ff99;
   color: #ffffff;
-  border-color: #ffff66;
+  border-color: #aaffdd;
 }
 
 button:hover {
-  background-color: #cccc25;
+  background-color: #55ee88;
 }
 
 #boxy, #topbar {
-  background-color: #eeee35;
-  border: 10px solid #bbbb00;
+  background-color: #66ff99;
+  border: 10px solid #33cc66;
 }
 
 img {
@@ -31,6 +35,23 @@ img {
 unused color schemes (uncomment if you dare)
 
 button {
+  background-color: #eeee35;
+  color: #ffffff;
+  border-color: #ffff66;
+}
+
+button:hover {
+  background-color: #cccc25;
+}
+
+#boxy, #topbar {
+  background-color: #eeee35;
+  border: 10px solid #bbbb00;
+}
+
+
+
+button {
   background-color: #ceff00;
   color: #ffffff;
   border-color: #dfff11;
@@ -44,6 +65,8 @@ button:hover {
   background-color: #ceff00;
   border: 10px solid #9bcc00;
 }
+
+
 
 button {
   background-color: #9bcc00;

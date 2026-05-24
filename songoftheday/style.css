@@ -3,16 +3,16 @@ body {
 }
 
 button {
-  background-color: #66ff99;
+  background-color: #ff4545;
   color: #ffffff;
-  border-color: #aaffdd;
+  border-color: #ff6666;
 }
 
 button:hover {
-  background-color: #55ee88;
+  background-color: #dd3535;
 }
 
 #boxy, #topbar {
-  background-color: #66ff99;
-  border: 10px solid #33cc66;
+  background-color: #ff4545;
+  border: 10px solid #cc0505;
 }
