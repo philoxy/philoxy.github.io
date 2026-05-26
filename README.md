@@ -19,6 +19,8 @@ This website might be moved to a different hosting service or even be self- host
 * [x] <s>Find a way to automatically sync readme and main page changelog</s>
 * [ ] Switch to a different hosting service
 * [ ] Draw new bg images
+* [ ] Draw new button icons
+* [ ] Make a button for the website
 
 ## Changelog
 

@@ -16,12 +16,12 @@ img {
   transition-duration: 0.4s;
 }
 
-img:hover, .fade:hover {
+img:hover {
   border-color: #cc05cc;
   filter: brightness(70%);
 }
 
-h1, h2, .fade {
+h1, h2 {
   transition-duration: 0.4s;
   color: #ffffff;
   text-shadow: 2px 2px 2px #000000;

@@ -73,6 +73,16 @@ h4 {
   margin-right: auto;
 }
 
+.fade:hover {
+  filter: brightness(70%);
+}
+
+.fade {
+  transition-duration: 0.4s;
+  color: #ffffff;
+  text-shadow: 2px 2px 2px #000000;
+}
+
 #boxy {
   zoom: 100%;
   width: 70%;
