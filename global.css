@@ -83,6 +83,16 @@ h4 {
   text-shadow: 2px 2px 2px #000000;
 }
 
+.leftSide {
+  float: left;
+  width: 50%;
+}
+
+.rightSide {
+  float: right;
+  width: 50%;
+}
+
 #boxy {
   zoom: 100%;
   width: 70%;
@@ -164,6 +174,15 @@ img {
   .buttons {
     flex-direction: column;
   }
+
+  .leftSide {
+    width: 100%;
+  }
+
+  .rightSide {
+    width: 100%;
+  }
+
   #topbar {
 
     display: flex;
