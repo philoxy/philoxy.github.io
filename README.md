@@ -2,8 +2,6 @@
 
 <h3>Hello, welcome to Philooxy's horribly coded website!!</h3>
 
-<h5>(the only project im still working on)<h5>
-
 ![_Soday, my OC_](https://philoxy.github.io/assets/bg/soday_index.png)
 
 ## About the Website
@@ -11,16 +9,15 @@ This website was originally just a small project I made for a school club, but I
 
 The website has many things, including a blog, a list of all my projects, servers, favourite music, and more! Go check it out please i promise its interesting
 
-This website might be moved to a different hosting service or even be self- hosted soon so that I can use a different domain name (this repo will still be here!)
+This website might be moved to a different hosting service or even be self-hosted soon so that I can use a different domain name (this repo will still be here!)
 
 ## To-Do List
 
 * [ ] Work on OCs page
-* [x] <s>Find a way to automatically sync readme and main page changelog</s>
 * [ ] Switch to a different hosting service
 * [ ] Draw new bg images
-* [ ] Draw new button icons
-* [ ] Make a button for the website
+* [x] <s>Draw new button icons</s>
+* [x] <s>Make a button for the website</s>
 
 ## Changelog
 
