@@ -2,7 +2,7 @@
 
 <h3>Hello, welcome to Philooxy's horribly coded website!!</h3>
 
-![_Soday, my OC_](https://philoxy.github.io/assets/bg/soday_index.png)
+![_Soday, my OC_](assets/bg/soday_index.png)
 
 ## About the Website
 This website was originally just a small project I made for a school club, but I expanded it much more into the website you see today! (I go into a bit more detail on the about page in my website)
