@@ -23,6 +23,22 @@ hr {
   width: 60%;
 }
 
+a {
+  transition-duration: 0.4s;
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+a:hover {
+  color: #aaaaff;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+.hiddenLink {
+  color: #ffffff;
+  text-shadow: 2px 2px 2px #000000;
+}
+
 button {
   color: #ffffff;
   transition-duration: 0.4s;
@@ -32,6 +48,8 @@ button {
   margin: 5px;
   padding: 0px;
   border-width: 4px;
+  text-decoration: none;
+  text-shadow: none;
 }
 
 button:hover {
@@ -41,11 +59,6 @@ button:hover {
 h1, h2, h3, h5 {
   text-shadow: 2px 2px 2px #000000;
   color: white;
-}
-
-a {
-  text-decoration: none;
-  text-shadow: none;
 }
 
 h4 {
@@ -129,22 +142,6 @@ img {
   display: block;
   margin: auto;
   border: none;
-}
-
-.bol23 {
-  transition-duration: 0.4s;
-  text-decoration: underline;
-  color: #ffffff;
-}
-
-.bol23:hover {
-  color: #aaaaff;
-  text-shadow: 2px 2px 2px #000000;
-}
-
-.hiddenLink {
-  color: #ffffff;
-  text-shadow: 2px 2px 2px #000000;
 }
 
 @media (max-width: 840px) {
